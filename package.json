@@ -2,10 +2,11 @@
   "name": "material-shadow",
   "version": "1.0.0",
   "description": "Small css library for shadows in material design",
-  "main": "bin/material-shadow.css",
+  "main": "css/material-shadow.css",
   "scripts": {
     "build": "./bin/build-css",
-    "watch": "nodemon -e scss -x \"yarn build\""
+    "watch": "nodemon -e scss -x \"yarn build\"",
+    "start": "http-server demo/"
   },
   "keywords": [
     "material",
@@ -16,6 +17,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
+    "http-server": "^0.10.0",
     "node-sass": "^4.5.3",
     "nodemon": "^1.12.1"
   }
