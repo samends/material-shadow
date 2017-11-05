@@ -1,10 +1,10 @@
 {
   "name": "material-shadow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small css library for shadows in material design",
-  "repository" :
-  { "type" : "git",
-    "url" : "https://github.com/sambytes/material-shadow"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sambytes/material-shadow"
   },
   "main": "css/material-shadow.css",
   "scripts": {
