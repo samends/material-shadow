@@ -15,4 +15,7 @@ html {
     margin: 30px;
     background-color: #fff;
     transition: all .3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
