@@ -2,6 +2,7 @@
   "name": "material-shadow",
   "version": "1.0.0",
   "description": "Small css library for shadows in material design",
+  "homepage": "https://github.com/sambytes/material-shadow",
   "main": "css/material-shadow.css",
   "scripts": {
     "build": "./bin/build-css",
