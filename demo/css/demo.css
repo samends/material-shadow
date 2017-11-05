@@ -1,0 +1,18 @@
+html {
+    background-color: #fff;
+}
+
+.block-container {
+    display: flex;
+}
+
+.block-container div {
+    min-width: 20%;
+}
+
+.block {
+    height: 200px;
+    margin: 30px;
+    background-color: #fff;
+    transition: all .3s;
+}

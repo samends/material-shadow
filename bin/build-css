@@ -1,1 +1,1 @@
-node-sass --include-path scss scss/material-shadow.scss css/material-shadow.css
+node-sass --include-path scss scss/material-shadow.scss demo/css/material-shadow.css
