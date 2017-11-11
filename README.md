@@ -7,7 +7,7 @@ Material shadow is a basic css library that provides material shadow shadings of
 
 # How to install
 
-`npm install material shadow`
+`npm install material-shadow`
 
 Or alternatively use git clone
 
