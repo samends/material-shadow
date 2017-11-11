@@ -3,7 +3,7 @@
 
 Material shadow is a basic css library that provides material shadow shadings of one through five.
 
-![Material Shadow Sample](./img/material-shadow-depths.png)
+![Material Shadow Sample](./img/material-shadow-classes.png)
 
 # How to install
 
